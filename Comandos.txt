@@ -1,6 +1,7 @@
-$ git add .
+$ git add .   (el punto agrega todos los arhivos)
 $ git commit -m "xxx"
 $ git push origin master
+$ git commit -m "Update" (para actaulzair)
 ------------
 
 Par abrir
